@@ -6,6 +6,10 @@ Repository: [sanandobanerjee/DDoS-Attack-Visualizer](https://github.com/sanandob
 
 ---
 
+## Sample Image
+<img width="1919" height="878" alt="Screenshot 2025-12-24 194619" src="https://github.com/user-attachments/assets/1c58d642-ad35-4405-9674-3c276711ecbc" />
+
+
 ## Table of contents
 
 - [Overview](#overview)
